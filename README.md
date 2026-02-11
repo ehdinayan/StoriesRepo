@@ -1,0 +1,3 @@
+# Hola! Esta es la web GitHub del repositorio Stories.
+## En ella, encontrarás distintos contenidos susceptibles de ser beneficiosos para cualquiera. El primer contenido es...
+- [El aprendizaje](video/El%20aprendizaje-subs_720.mp4)
